@@ -209,11 +209,11 @@ $choosenPic = rand(0, $numberOfPictures-1);
             <p>Chaque joueur place a tour de rôle son jeton tout en essayant de contrer le jeu de l'adversaire.</p>
 
             <p>Exemple de plateau avec un gagnant</p> 
-            <img src="images/regle-gagnant.PNG" alt="Exemple de partie avec un gagnant" class="regle-image">
+            <img src="images/regle-gagnant.jpg" alt="Exemple de partie avec un gagnant" class="regle-image">
             <p>Si aucun joueur ne parvient a avoir 3 jetons consécutifs, la partie sera nulle.</p>
             
             <p>Exemple d'une partie nulle</p>
-            <img src="images/regle-nulle.PNG" alt="Exemple de partie nulle" class="regle-image">
+            <img src="images/regle-nulle.jpg" alt="Exemple de partie nulle" class="regle-image">
             <p>Bonne partie!</p>
             </div>
         </div>

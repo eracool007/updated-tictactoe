@@ -513,19 +513,20 @@ Clear floats .row::after {
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
+    width: 500px;
 }
 
 .close {
-    color: #aaaaaa;
+    color: #eee;
     float: right;
     font-size: 28px;
     font-weight: bold;
+    padding: 5px 10px 0 0;
 }
 
 .close:hover,
 .close:focus {
-    color: #000;
+    color: #333;
     text-decoration: none;
     cursor: pointer;
 }
@@ -543,14 +544,12 @@ Clear floats .row::after {
 }
 
 .modal-body p {
-    margin-bottom: 1rem;
+    padding: 10px 5px;
 }
 
 .regle-image {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
+    
 }
 /*----------------- credits -----------------*/
 .credits{
